@@ -1,0 +1,60 @@
+﻿@using MenuComponent.Components
+@using MenuComponent.Demo.Services
+@using MenuComponent.Models
+
+@page "/"
+@inject IDataService DataService
+@rendermode InteractiveServer
+
+<PageTitle>Home</PageTitle>
+
+<h2 class="text-center">Welcome to the Demo page for MenuComponent!</h2>
+
+<p class="h5 text-center">Explore the control with all its themes and variations below.
+              Utilize the navigation on the left to discover practical examples and usages.</p>
+
+<div class="m-4">
+    <Menu MenuItems="@menuItems" Theme="MenuTheme.Default"></Menu>
+</div>
+<div class="m-4">
+    <Menu MenuItems="@menuItems" Theme="MenuTheme.Dark"></Menu>
+</div>
+<div class="m-4">
+    <Menu MenuItems="@menuItems" Theme="MenuTheme.Christmas"></Menu>
+</div>
+<div class="m-4">
+    <Menu MenuItems="@menuItems" Theme="MenuTheme.Sky"></Menu>
+</div>
+<div class="m-4">
+    <Menu MenuItems="@menuItems" Theme="MenuTheme.Default" isDisplayInline="true"></Menu>
+</div>
+<div class="m-4">
+    <Menu MenuItems="@menuItems" Theme="MenuTheme.Dark" isDisplayInline="true"></Menu>
+</div>
+<div class="m-4">
+    <Menu MenuItems="@menuItems" Theme="MenuTheme.Christmas" isDisplayInline="true"></Menu>
+</div>
+<div class="m-4">
+    <Menu MenuItems="@menuItems" Theme="MenuTheme.Sky" isDisplayInline="true"></Menu>
+</div>
+
+@code {
+    private List<MenuItem_Model> menuItems = new List<MenuItem_Model>()
+    {
+        new MenuItem_Model("Item 1", new List<MenuItem_Model>()
+        {
+            new MenuItem_Model("Item 1.1", null),
+            new MenuItem_Model("Item 1.2", new List<MenuItem_Model>()
+            {
+                new MenuItem_Model("Item 1.2.1", null),
+                new MenuItem_Model("Item 1.2.2", null),
+                new MenuItem_Model("Item 1.2.3", null),
+            })
+        }),
+        new MenuItem_Model("Item 2", new List<MenuItem_Model>()
+        {
+            new MenuItem_Model("Item 2.1", null),
+            new MenuItem_Model("Item 2.2", null),
+        }),
+    };
+}

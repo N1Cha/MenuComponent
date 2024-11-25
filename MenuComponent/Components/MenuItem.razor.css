@@ -1,0 +1,58 @@
+.menu-item {
+    position: relative;
+    cursor: pointer;
+}
+
+.sub-menu {
+    min-width: 200px;
+    width: fit-content;
+    background-color: var(--submenu-bg-color);
+    border: 1px solid var(--submenu-border);
+    box-shadow: 0 2px 4px var( --submenu-shadow);
+    z-index: 1000;
+}
+
+.item-content {
+    display: flex;
+    align-items: center;
+    white-space: nowrap;
+    gap: 0.5rem;
+    padding: 0.5rem 1rem;
+    color: var(--item-text);
+    background-color: var(--item-bg-color);
+    transition: background-color 0.2s;
+}
+
+.menu-item > .item-content:has(+ .shown) {
+    color: var(--item-text-hover);
+}
+
+.item-content:hover {
+    color: var(--item-text-hover);
+    background-color: var(--item-bg-hover);
+}
+
+.arrow {
+    color: var(--arrow-color);
+    margin-left: auto;
+}
+
+.hidden {
+    display: none;
+}
+
+.shown {
+    display: block;
+}
+
+.content-left {
+    position: absolute;
+    top: 0;
+    left: 100%;
+}
+
+.content-top {
+    position: absolute;
+    top: 100%;
+    left: 0;
+}

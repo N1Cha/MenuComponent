@@ -1,0 +1,35 @@
+﻿<div id="menu-item-@Item.Title" class="menu-item" @onmouseover="ToggleChildItems" @onmouseout="ToggleChildItems">
+    <div class="item-content">
+        <span>@Item.Title</span>
+        @if (Item.ChildItems?.Any() == true)
+        {
+            <span class="arrow">▸</span>
+        }
+    </div>
+
+    @if (Item.ChildItems?.Count > 0)
+    {
+        <div class="sub-menu @dynamicStyle">
+            @foreach (MenuItem_Model item in Item.ChildItems)
+            {
+                <MenuItem Item="item" />
+            }
+        </div>
+    }
+</div>
+
+@code {
+    [Parameter]
+    public MenuItem_Model Item { get; set; }
+
+    [Parameter]
+    public bool IsRootElement { get; set; }
+
+    private string dynamicStyle { get; set; } = "hidden";
+
+    private void ToggleChildItems()
+    {
+        dynamicStyle = dynamicStyle.Contains("shown") ? "hidden " : "shown ";
+        dynamicStyle += IsRootElement ? "content-top" : "content-left";
+    }
+}

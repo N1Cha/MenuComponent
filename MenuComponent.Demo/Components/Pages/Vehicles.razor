@@ -1,0 +1,13 @@
+﻿@using MenuComponent.Components
+@using MenuComponent.Demo.Services
+@using MenuComponent.Models
+
+@page "/Vehicles"
+@inject IDataService DataService
+@rendermode InteractiveServer
+
+<PageTitle>Vehicles</PageTitle>
+
+<h3>Vehicle Categories</h3>
+
+<Menu MenuItems="@DataService.GetVehicles()" Theme="MenuTheme.Dark"></Menu>

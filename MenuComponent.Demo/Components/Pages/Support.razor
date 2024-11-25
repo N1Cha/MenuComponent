@@ -1,0 +1,14 @@
+﻿@using MenuComponent.Components
+@using MenuComponent.Demo.Services
+@using MenuComponent.Models
+
+@page "/Support"
+@inject IDataService DataService
+@rendermode InteractiveServer
+
+<PageTitle>Vehicles</PageTitle>
+
+<h3>Customer Support</h3>
+
+<Menu MenuItems="@DataService.GetSupport()" Theme="MenuTheme.Sky"></Menu>
+

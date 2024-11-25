@@ -1,0 +1,35 @@
+﻿<div id="menu" class="menu-container @SelectThemeClass(Theme) @GetDisplayClass()">
+    @foreach (MenuItem_Model item in @MenuItems)
+    {
+        <MenuItem Item="item" IsRootElement="true"/>
+    }
+</div>
+
+@code {
+    [Parameter]
+    public List<MenuItem_Model> MenuItems { get; set; } = new List<MenuItem_Model>();
+
+    [Parameter]
+    public MenuTheme Theme { get; set; } = MenuTheme.Default;
+
+    [Parameter]
+    public bool isDisplayInline { get; set; }
+
+    private readonly Dictionary<MenuTheme, string> themeClasses = new Dictionary<MenuTheme, string> 
+    { 
+        { MenuTheme.Dark, "menu-theme-dark" },
+        { MenuTheme.Sky, "menu-theme-sky" },
+        { MenuTheme.Christmas, "menu-theme-christmas" },
+        { MenuTheme.Default, "menu-theme-default" } 
+    }; 
+
+    private string SelectThemeClass(MenuTheme theme) 
+    { 
+        return themeClasses.TryGetValue(theme, out var themeClass) ? themeClass : "menu-theme-default"; 
+    }
+
+    private string GetDisplayClass()
+    {
+        return isDisplayInline == true ? "display-inline-flex" : string.Empty;
+    }
+}

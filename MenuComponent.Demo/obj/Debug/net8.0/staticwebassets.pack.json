@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "G:\\Projects\\Blazor-Menu-Task\\MenuComponent\\MenuComponent.Demo\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MenuComponent.Demo.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MenuComponent.Demo.0kej2ys84g.bundle.scp.css"
+    },
+    {
+      "Id": "G:\\Projects\\Blazor-Menu-Task\\MenuComponent\\MenuComponent.Demo\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "G:\\Projects\\Blazor-Menu-Task\\MenuComponent\\MenuComponent.Demo\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "G:\\Projects\\Blazor-Menu-Task\\MenuComponent\\MenuComponent.Demo\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "G:\\Projects\\Blazor-Menu-Task\\MenuComponent\\MenuComponent.Demo\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MenuComponent.Demo.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MenuComponent.Demo.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MenuComponent.Demo.props",
+      "PackagePath": "build\\MenuComponent.Demo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MenuComponent.Demo.props",
+      "PackagePath": "buildMultiTargeting\\MenuComponent.Demo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MenuComponent.Demo.props",
+      "PackagePath": "buildTransitive\\MenuComponent.Demo.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

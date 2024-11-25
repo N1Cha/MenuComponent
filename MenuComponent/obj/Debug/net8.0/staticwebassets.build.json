@@ -1,0 +1,331 @@
+{
+  "Version": 1,
+  "Hash": "2F9Rl2GQHCMwpyQ5QtO6z09krpRRnAnjc7ivO3V8Ixw=",
+  "Source": "MenuComponent",
+  "BasePath": "_content/MenuComponent",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MenuComponent\\wwwroot",
+      "Source": "MenuComponent",
+      "ContentRoot": "G:\\Projects\\Blazor-Menu-Task\\MenuComponent\\MenuComponent\\wwwroot\\",
+      "BasePath": "_content/MenuComponent",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "G:\\Projects\\Blazor-Menu-Task\\MenuComponent\\MenuComponent\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MenuComponent.styles.css",
+      "SourceId": "MenuComponent",
+      "SourceType": "Computed",
+      "ContentRoot": "G:\\Projects\\Blazor-Menu-Task\\MenuComponent\\MenuComponent\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/MenuComponent",
+      "RelativePath": "MenuComponent#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "j52ufpn7jt",
+      "Integrity": "mfbaM2hvsd7+KkJN6HrugIjcUvSZOM2kneULvrZiqsM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "G:\\Projects\\Blazor-Menu-Task\\MenuComponent\\MenuComponent\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MenuComponent.styles.css"
+    },
+    {
+      "Identity": "G:\\Projects\\Blazor-Menu-Task\\MenuComponent\\MenuComponent\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MenuComponent.bundle.scp.css",
+      "SourceId": "MenuComponent",
+      "SourceType": "Computed",
+      "ContentRoot": "G:\\Projects\\Blazor-Menu-Task\\MenuComponent\\MenuComponent\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/MenuComponent",
+      "RelativePath": "MenuComponent#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "j52ufpn7jt",
+      "Integrity": "mfbaM2hvsd7+KkJN6HrugIjcUvSZOM2kneULvrZiqsM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "G:\\Projects\\Blazor-Menu-Task\\MenuComponent\\MenuComponent\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MenuComponent.bundle.scp.css"
+    },
+    {
+      "Identity": "G:\\Projects\\Blazor-Menu-Task\\MenuComponent\\MenuComponent\\wwwroot\\background.png",
+      "SourceId": "MenuComponent",
+      "SourceType": "Discovered",
+      "ContentRoot": "G:\\Projects\\Blazor-Menu-Task\\MenuComponent\\MenuComponent\\wwwroot\\",
+      "BasePath": "_content/MenuComponent",
+      "RelativePath": "background#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "x2rx4ajns0",
+      "Integrity": "WeOKCkI7IdJHs2kCqsKgLfiWX4/sNPbaRUspOLefkCY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\background.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "background.png",
+      "AssetFile": "G:\\Projects\\Blazor-Menu-Task\\MenuComponent\\MenuComponent\\wwwroot\\background.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "378"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WeOKCkI7IdJHs2kCqsKgLfiWX4/sNPbaRUspOLefkCY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 24 Nov 2024 16:16:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WeOKCkI7IdJHs2kCqsKgLfiWX4/sNPbaRUspOLefkCY="
+        }
+      ]
+    },
+    {
+      "Route": "background.x2rx4ajns0.png",
+      "AssetFile": "G:\\Projects\\Blazor-Menu-Task\\MenuComponent\\MenuComponent\\wwwroot\\background.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "378"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WeOKCkI7IdJHs2kCqsKgLfiWX4/sNPbaRUspOLefkCY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 24 Nov 2024 16:16:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x2rx4ajns0"
+        },
+        {
+          "Name": "label",
+          "Value": "background.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WeOKCkI7IdJHs2kCqsKgLfiWX4/sNPbaRUspOLefkCY="
+        }
+      ]
+    },
+    {
+      "Route": "MenuComponent.bundle.scp.css",
+      "AssetFile": "G:\\Projects\\Blazor-Menu-Task\\MenuComponent\\MenuComponent\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MenuComponent.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3199"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mfbaM2hvsd7+KkJN6HrugIjcUvSZOM2kneULvrZiqsM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 18:16:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mfbaM2hvsd7+KkJN6HrugIjcUvSZOM2kneULvrZiqsM="
+        }
+      ]
+    },
+    {
+      "Route": "MenuComponent.j52ufpn7jt.bundle.scp.css",
+      "AssetFile": "G:\\Projects\\Blazor-Menu-Task\\MenuComponent\\MenuComponent\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MenuComponent.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3199"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mfbaM2hvsd7+KkJN6HrugIjcUvSZOM2kneULvrZiqsM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 18:16:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j52ufpn7jt"
+        },
+        {
+          "Name": "label",
+          "Value": "MenuComponent.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mfbaM2hvsd7+KkJN6HrugIjcUvSZOM2kneULvrZiqsM="
+        }
+      ]
+    },
+    {
+      "Route": "MenuComponent.j52ufpn7jt.styles.css",
+      "AssetFile": "G:\\Projects\\Blazor-Menu-Task\\MenuComponent\\MenuComponent\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MenuComponent.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3199"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mfbaM2hvsd7+KkJN6HrugIjcUvSZOM2kneULvrZiqsM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 18:16:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j52ufpn7jt"
+        },
+        {
+          "Name": "label",
+          "Value": "MenuComponent.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mfbaM2hvsd7+KkJN6HrugIjcUvSZOM2kneULvrZiqsM="
+        }
+      ]
+    },
+    {
+      "Route": "MenuComponent.styles.css",
+      "AssetFile": "G:\\Projects\\Blazor-Menu-Task\\MenuComponent\\MenuComponent\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MenuComponent.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3199"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mfbaM2hvsd7+KkJN6HrugIjcUvSZOM2kneULvrZiqsM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 18:16:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mfbaM2hvsd7+KkJN6HrugIjcUvSZOM2kneULvrZiqsM="
+        }
+      ]
+    }
+  ]
+}

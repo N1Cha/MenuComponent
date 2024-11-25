@@ -1,0 +1,13 @@
+﻿@using MenuComponent.Components
+@using MenuComponent.Demo.Services
+@using MenuComponent.Models
+
+@page "/Products"
+@inject IDataService DataService
+@rendermode InteractiveServer
+
+<PageTitle>Products</PageTitle>
+
+<h3>Product Categories</h3>
+
+<Menu MenuItems="@DataService.GetProducts()" Theme="MenuTheme.Christmas"></Menu>
