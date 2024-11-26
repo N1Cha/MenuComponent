@@ -47,3 +47,4 @@ G:\Projects\Blazor-Menu-Task\MenuComponent\MenuComponent.Demo\obj\Debug\net8.0\r
 G:\Projects\Blazor-Menu-Task\MenuComponent\MenuComponent.Demo\obj\Debug\net8.0\MenuComponent.Demo.pdb
 G:\Projects\Blazor-Menu-Task\MenuComponent\MenuComponent.Demo\obj\Debug\net8.0\MenuComponent.Demo.genruntimeconfig.cache
 G:\Projects\Blazor-Menu-Task\MenuComponent\MenuComponent.Demo\obj\Debug\net8.0\ref\MenuComponent.Demo.dll
+G:\Projects\Blazor-Menu-Task\MenuComponent\MenuComponent.Demo\obj\Debug\net8.0\MenuComponent.Demo.sourcelink.json

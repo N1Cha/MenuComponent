@@ -26,3 +26,4 @@ G:\Projects\Blazor-Menu-Task\MenuComponent\MenuComponent\obj\Debug\net8.0\ref\Me
 G:\Projects\Blazor-Menu-Task\MenuComponent\MenuComponent\obj\Debug\net8.0\scopedcss\Components\MenuItem.razor.rz.scp.css
 G:\Projects\Blazor-Menu-Task\MenuComponent\MenuComponent\obj\Debug\net8.0\scopedcss\projectbundle\MenuComponent.bundle.scp.css
 G:\Projects\Blazor-Menu-Task\MenuComponent\MenuComponent\obj\Debug\net8.0\scopedcss\Components\Menu.razor.rz.scp.css
+G:\Projects\Blazor-Menu-Task\MenuComponent\MenuComponent\obj\Debug\net8.0\MenuComponent.sourcelink.json

@@ -91,8 +91,7 @@
               "ViewState": "AgIAAAsAAAAAAAAAAAAMwBoAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-24T20:41:17.168Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -105,8 +104,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-25T11:51:38.278Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -119,8 +117,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-24T20:51:23.674Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -132,8 +129,7 @@
               "RelativeToolTip": "MenuComponent.Demo\\Components\\_Imports.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-25T22:10:10.229Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-25T22:10:10.229Z"
             },
             {
               "$type": "Document",
@@ -145,8 +141,7 @@
               "RelativeToolTip": "MenuComponent.Demo\\wwwroot\\app.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-25T20:03:21.543Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-25T20:03:21.543Z"
             },
             {
               "$type": "Document",
@@ -158,8 +153,7 @@
               "RelativeToolTip": "MenuComponent.Demo\\wwwroot\\bootstrap\\bootstrap.min.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWFAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-25T20:02:12.59Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-25T20:02:12.59Z"
             },
             {
               "$type": "Document",
@@ -171,8 +165,7 @@
               "RelativeToolTip": "MenuComponent.Demo\\Services\\IDataService.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T18:37:01.538Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-25T18:37:01.538Z"
             },
             {
               "$type": "Document",
@@ -184,8 +177,7 @@
               "RelativeToolTip": "MenuComponent.Demo\\Components\\Pages\\Support.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-25T18:32:28.028Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-25T18:32:28.028Z"
             },
             {
               "$type": "Document",
@@ -197,8 +189,7 @@
               "RelativeToolTip": "MenuComponent.Demo\\Components\\Layout\\NavMenu.razor",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-25T18:22:18.069Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-25T18:22:18.069Z"
             },
             {
               "$type": "Document",
@@ -208,7 +199,7 @@
               "RelativeDocumentMoniker": "MenuComponent.Demo\\Components\\Pages\\Home.razor",
               "ToolTip": "G:\\Projects\\Blazor-Menu-Task\\MenuComponent\\MenuComponent.Demo\\Components\\Pages\\Home.razor",
               "RelativeToolTip": "MenuComponent.Demo\\Components\\Pages\\Home.razor",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADcAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-25T18:18:49.852Z",
               "EditorCaption": ""
@@ -223,8 +214,7 @@
               "RelativeToolTip": "MenuComponent\\Components\\Menu.razor.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-25T12:12:53.156Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-25T12:12:53.156Z"
             },
             {
               "$type": "Document",
@@ -248,8 +238,7 @@
               "RelativeToolTip": "MenuComponent\\Models\\MenuItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T11:56:27.963Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-25T11:56:27.963Z"
             },
             {
               "$type": "Document",
@@ -261,8 +250,7 @@
               "RelativeToolTip": "MenuComponent.Demo\\Components\\Pages\\Products.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-25T11:52:19.231Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-25T11:52:19.231Z"
             },
             {
               "$type": "Document",
@@ -274,8 +262,7 @@
               "RelativeToolTip": "MenuComponent.Demo\\InMemoryData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAUwFgAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T20:51:26.094Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-24T20:51:26.094Z"
             },
             {
               "$type": "Document",
@@ -287,8 +274,7 @@
               "RelativeToolTip": "MenuComponent.Demo\\Components\\Pages\\Vehicles.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-24T20:50:54.325Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-24T20:50:54.325Z"
             },
             {
               "$type": "Document",
@@ -300,8 +286,7 @@
               "RelativeToolTip": "MenuComponent.Demo\\Components\\Layout\\MainLayout.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-25T18:40:46.154Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-25T18:40:46.154Z"
             }
           ]
         }

@@ -77,3 +77,4 @@ G:\Projects\Blazor-Menu-Task\MenuComponent\MenuComponent\obj\Debug\net8.0\static
 G:\Projects\Blazor-Menu-Task\MenuComponent\MenuComponent\obj\Debug\net8.0\staticwebassets.build.json
 G:\Projects\Blazor-Menu-Task\MenuComponent\MenuComponent\obj\Debug\net8.0\staticwebassets.build.json
 G:\Projects\Blazor-Menu-Task\MenuComponent\MenuComponent\obj\Debug\net8.0\staticwebassets.build.json
+G:\Projects\Blazor-Menu-Task\MenuComponent\MenuComponent\obj\Debug\net8.0\staticwebassets.build.json

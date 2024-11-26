@@ -24,7 +24,7 @@
     }; 
 
     private string SelectThemeClass(MenuTheme theme) 
-    { 
+    {  
         return themeClasses.TryGetValue(theme, out var themeClass) ? themeClass : "menu-theme-default"; 
     }
 
